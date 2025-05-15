@@ -38,6 +38,8 @@ profile-card/
 - Update the name, designation, and social media links in `index.html`.
 - Modify styles in `style.css` as needed.
 
+## Thank you!
+
 
 
 
